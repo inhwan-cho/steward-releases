@@ -1,7 +1,5 @@
 # Steward 배포
 
-Steward macOS 앱의 설치 파일을 배포하는 곳입니다. 소스 코드는 이 레포에 없습니다.
-
 <p>
   <a href="https://github.com/inhwan-cho/steward-releases/releases/latest/download/Steward_macOS_arm64.zip"><img src="https://img.shields.io/badge/macOS%EC%9A%A9%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Apple%20Silicon-1f6feb?style=for-the-badge&logo=apple&logoColor=white" alt="macOS용 다운로드 (Apple Silicon)"></a>
 </p>
